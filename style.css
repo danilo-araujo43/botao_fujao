@@ -1,13 +1,13 @@
+* {
+    text-decoration: none;
+}
+
 body {
     background-color: rgba(182, 63, 82, 0.822);
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
-
-* {
-    text-decoration: none;
 }
 
 .box {
